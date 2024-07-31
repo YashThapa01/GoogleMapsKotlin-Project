@@ -21,7 +21,7 @@ It provides a real-time map interface and continuously updates the user's route 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/unon4all/distance-tracker-app.git
+   git clone https://github.com/YashThapa01/GoogleMapsKotlin-Project
    ```
 
 2. **Open the project in Android Studio:**
